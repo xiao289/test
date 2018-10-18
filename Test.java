@@ -1,5 +1,5 @@
 ﻿public class Test {
     public static void main(String[] args) {
-        System.out.println("天气预报不灵,今天是雨天!");
+        System.out.println("今天将会是一个晴天!");
     }
 }
